@@ -1,4 +1,4 @@
-title: Hello, world! I'm Sohyun Soi Cho
+title: Hello, world! I'm Sohyun(Soi) Cho
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,13 +9,13 @@ url: "http://josohyun.com" # the base hostname & protocol for your site, e.g. ht
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Sohyun Soi Cho # add your name
+author: Sohyun(Soi) Cho # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
+about-author: Actively seeking a Summer Internship 2020 || MS in Business Analytics || R || Python || SQL || Data Science || SAP 
+social-twitter: SOHYUNCHO4 # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
+social-linkedin: soicho # add your Linkedin handle
 social-email: # add your Email address
 
 # Disqus
