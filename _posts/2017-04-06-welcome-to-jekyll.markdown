@@ -11,4 +11,5 @@ Hello world!
 I just opened my homepage! 
 
 Linkedin [Linkedin_Soi][Linkedin_Soi] for more info. 
+
 [Linkedin_Soi]: https://www.linkedin.com/in/soicho/
