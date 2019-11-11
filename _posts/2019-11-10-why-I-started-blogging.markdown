@@ -33,7 +33,7 @@ My mom explained me like that ; - it was just an assistance for some litte girl 
 As time goes by, I slowly but perfectly understand the concepts I learned, and I realized that way of studying was fit for me and 
 very effective and successful in a long term in my life. 
 
-Hum Hum. Preliminary was long, like me. (right, I need to explain why I am writing this post!! ) 
+Hum Hum. Introduction was long.(right, I need to explain why I am writing this post!! ) 
 
 
 
@@ -80,10 +80,10 @@ I want to know
 
 
 
-That's why I stared this blog. To understand more deeply by posting regularly, to share what I understood with people.
+That's why I started this blog. To understand more deeply by posting regularly, to share what I understood with people.
 I want to post not only codes and skills I learned but explain the meaning and how can we use in ourlive easily!
 Hope to help everyone, cause BA is too broad and life is too short, right?
-I believe that this blog can lead me to find out perfect load in Business Analytics area and Business Analytics itself. 
+I believe that this blog can lead me to find out my road in Business Analytics area. 
 
 
 
