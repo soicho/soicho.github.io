@@ -42,18 +42,18 @@ Hello, I am Soi Cho who studying Business Analytics in UT Dallas. I am studying 
 But, the thing is this. 
 
 
-__I 
-cannot 
-100% 
-understand 
-Why 
-I 
-need 
-to 
-use 
-those 
-tools 
-!!!! 
+__I__
+__cannot__ 
+__100%__ 
+__understand__ 
+__Why__ 
+__I__ 
+__need__ 
+__to__ 
+__use__ 
+__those__ 
+__tools__ 
+__!!!!__
 
 <img src="/assets/img/IMG_0002.GIF" width="200" />
 
@@ -64,20 +64,24 @@ tools
 
 
 I cannot be satisfied just with the fact that 
-_"Because I am skillful!"
+
+_"Because I am skillful!"_
 :sunglasses::sunglasses::sunglasses:
-_"Because there are many job demands requiring those tools and I need to get a job to earn my living expense!"
+
+_"Because there are many job demands requiring those tools and I need to get a job to earn my living expense!"_
 :money_mouth_face::money_mouth_face::money_mouth_face:
 
 
 
-I know I know, but that is not enough.
+It is not enough.
 I want to know 
 "Why business analytics"
 "How business analytics"
-"Exactly which area in business analytics"
 
-That's why I stared this blog. I want to post not only codes and skills I learned but explain not only to me but also to all of visitors to help to understand in depth.
+
+
+That's why I stared this blog. To understand more deeply by posting regularly, to share what I understood with people.
+I want to post not only codes and skills I learned but explain the meaning and how can we use in ourlive easily!
 Hope to help everyone, cause BA is too broad and life is too short, right?
 I believe that this blog can lead me to find out perfect load in Business Analytics area and Business Analytics itself. 
 
