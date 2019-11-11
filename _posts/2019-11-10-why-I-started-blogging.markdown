@@ -30,7 +30,7 @@ My mom explained me like that ; - it was just an assistance for some litte girl 
 
 
 
-As time goes by, I slowly but perfectly understand the concepts I learned, and I realized that way of studying was fit for me and 
+As time went by, I slowly but deeply understood the concepts I learned in school, and I realized that way of studying was fit for me and 
 very effective and successful in a long term in my life. 
 
 Hum Hum. Introduction was long.(right, I need to explain why I am writing this post!! ) 
