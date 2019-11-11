@@ -55,7 +55,7 @@ those
 tools 
 !!!! 
 
-<img src="/assets/img/IMG_0002.GIF" width="500" />
+<img src="/assets/img/IMG_0002.GIF" width="200" />
 
 
 
@@ -80,6 +80,7 @@ I want to know
 That's why I stared this blog. I want to post not only codes and skills I learned but explain not only to me but also to all of visitors to help to understand in depth.
 Hope to help everyone, cause BA is too broad and life is too short, right?
 I believe that this blog can lead me to find out perfect load in Business Analytics area and Business Analytics itself. 
+
 
 
 
