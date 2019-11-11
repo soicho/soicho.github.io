@@ -68,6 +68,10 @@ I cannot be satisfied just with the fact that
 _"Because I am skillful!"_
 :sunglasses::sunglasses::sunglasses:
 
+
+(too bragging? truth is..)
+
+
 _"Because there are many job demands requiring those tools and I need to get a job to earn my living expense!"_
 :money_mouth_face::money_mouth_face::money_mouth_face:
 
