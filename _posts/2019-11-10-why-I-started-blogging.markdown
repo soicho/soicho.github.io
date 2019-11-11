@@ -8,7 +8,6 @@ tags:
 - what is analytics?
 type: post
 published: true
-date: page.date
 description: meaningful jibber-jabber
 # Add post description (optional)
 img:  # Add image post (optional)
@@ -18,15 +17,18 @@ img:  # Add image post (optional)
 
 # Why did I start this blog?
 
-I am a person who is super addicted to the 'meaning' of everything. In other words, I cannot move on to the next page without understanding
-'why' or 'how' of concept. No exception. For example, when I was elementary school student, I sticked to the necessity of sum, multiple, division. 
-All of my friends just sumed, multiplied, devided numbers that they got, but I couldn't. Since I could not understand what is 
-those tools, why I need to use those tools in my life. My mom explained me like that ; - it was just an assistance for some litte 
-girl who did not even started her assignment - 
+I am a person who is super addicted to the 'meaning' of everything. In other words, I cannot move on to the next page without understanding'why' or 'how' of the concept. No exception. 
+For example, when I was elementary school student, I sticked to the necessity of sum, subset, multiple, division. 
+All of my friends just summed or divided numbers that they got from teacher, but I couldn't. Since I could not understand what is those tools, why I need to use those tools in my life. 
+My mom explained me like that ; - it was just an assistance for some litte girl who did not even started her assignment - 
+
+
 
 >"You need to divide these 3 cookies with your 3 friends including you. 
 >That is why you need to learn division!"
 (Sorry, mom. When I heard this from you, my head just filled with chocolatechip cookies...) 
+
+
 
 As time goes by, I slowly but perfectly understand the concepts I learned, and I realized that way of studying was fit for me and 
 very effective and successful in a long term in my life. 
@@ -39,7 +41,8 @@ Hum Hum. Preliminary was long, like me. (right, I need to explain why I am writi
 Hello, I am Soi Cho who studying Business Analytics in UT Dallas. I am studying R, Python, MySQL, and Tableau and I'm kinda skillful at SAP and Excel. 
 But, the thing is this. 
 
-I 
+
+__I 
 cannot 
 100% 
 understand 
@@ -52,11 +55,20 @@ those
 tools 
 !!!! 
 
+<img src="/assets/img/IMG_0002.GIF" width="500" />
+
+
+
+
+
+
+
 I cannot be satisfied just with the fact that 
-"Because I am skillful!"
+_"Because I am skillful!"
 :sunglasses::sunglasses::sunglasses:
-"Because there are many job demands requiring those tools and I need to get a job to earn my living expense!"
+_"Because there are many job demands requiring those tools and I need to get a job to earn my living expense!"
 :money_mouth_face::money_mouth_face::money_mouth_face:
+
 
 
 I know I know, but that is not enough.
