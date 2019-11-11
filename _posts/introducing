@@ -1,11 +1,20 @@
 ---
 layout: post
 title: "Why did I start this blog?!"
+tags:
+- business analytics 
+- business analyst
+- data analyst
+- what is analytics?
+type: post
+published: true
 date: page.date
 description: meaningful jibber-jabber
 # Add post description (optional)
 img:  # Add image post (optional)
 ---
+
+
 
 # Why did I start this blog?
 
