@@ -22,7 +22,7 @@ img:  # Add image post (optional)
 
 
 # Machine Learning Study 
-
+#
 
 
 ```python
@@ -358,17 +358,3 @@ plt.title('after kmean clustering')
 <img src="/assets/img/output_14_1.png" width="200" />
 
 
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
