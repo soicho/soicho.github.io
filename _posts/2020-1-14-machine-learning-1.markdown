@@ -178,7 +178,7 @@ plt.ylabel('y')
 
 
 
-<img src="/assets/img/output_6_1.png" width="200" />
+<img src="/assets/img/output_6_1.png" width="400" />
 
 
 ## K mean clustering 
@@ -355,6 +355,6 @@ plt.title('after kmean clustering')
 
 
 
-<img src="/assets/img/output_14_1.png" width="200" />
+<img src="/assets/img/output_14_1.png" width="400" />
 
 
