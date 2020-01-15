@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "Titanic- Machine Learning from Disaster"
+title: "Titanic: Machine Learning from Disaster"
 tags:
 - business analytics 
 - business analyst
