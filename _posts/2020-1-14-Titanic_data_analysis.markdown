@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "Kaggle competition- Titanic : Machine Learning from Disaster"
+title: "Titanic: Machine Learning from Disaster"
 tags:
 - business analytics 
 - business analyst
@@ -12,8 +12,6 @@ tags:
 - linear algebra 
 - regression
 - classification 
-- Kaggle
-- Titanic
 type: post
 published: true
 description: Machine Learning Self Study
@@ -2067,18 +2065,6 @@ train.head()
 ```
 
 
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    <ipython-input-80-c4dda1b59424> in <module>
-    ----> 1 train_data.head()
-    
-
-    NameError: name 'train_data' is not defined
-
-
-
 ```python
 # Dropping some columns from dataset
 features_drop = ['Ticket','SibSp','Parch']
@@ -2087,52 +2073,6 @@ test = test.drop(features_drop, axis=1)
 train = train.drop(['PassengerId'], axis=1)
 ```
 
-
-    ---------------------------------------------------------------------------
-
-    KeyError                                  Traceback (most recent call last)
-
-    <ipython-input-84-3605d6c05496> in <module>
-          1 # Dropping some columns from dataset
-          2 features_drop = ['Ticket','SibSp','Parch']
-    ----> 3 train = train.drop(features_drop, axis =1)
-          4 test = test.drop(features_drop, axis=1)
-          5 train = train.drop(['PassengerId'], axis=1)
-
-
-    /opt/anaconda3/lib/python3.7/site-packages/pandas/core/frame.py in drop(self, labels, axis, index, columns, level, inplace, errors)
-       4100             level=level,
-       4101             inplace=inplace,
-    -> 4102             errors=errors,
-       4103         )
-       4104 
-
-
-    /opt/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py in drop(self, labels, axis, index, columns, level, inplace, errors)
-       3912         for axis, labels in axes.items():
-       3913             if labels is not None:
-    -> 3914                 obj = obj._drop_axis(labels, axis, level=level, errors=errors)
-       3915 
-       3916         if inplace:
-
-
-    /opt/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py in _drop_axis(self, labels, axis, level, errors)
-       3944                 new_axis = axis.drop(labels, level=level, errors=errors)
-       3945             else:
-    -> 3946                 new_axis = axis.drop(labels, errors=errors)
-       3947             result = self.reindex(**{axis_name: new_axis})
-       3948 
-
-
-    /opt/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/base.py in drop(self, labels, errors)
-       5338         if mask.any():
-       5339             if errors != "ignore":
-    -> 5340                 raise KeyError("{} not found in axis".format(labels[mask]))
-       5341             indexer = indexer[~mask]
-       5342         return self.delete(indexer)
-
-
-    KeyError: "['Ticket' 'SibSp' 'Parch'] not found in axis"
 
 
 
