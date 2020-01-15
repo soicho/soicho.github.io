@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Titanic, Machine Learning from Disaster"
@@ -14,7 +13,7 @@ tags:
 - classification 
 type: post
 published: true
-description: Machine Learning Self Study
+description: Titanic -  Machine Learning from Disaster
 # Add post description (optional)
 img:  # Add image post (optional)
 ---
