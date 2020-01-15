@@ -1,5 +1,4 @@
 
-
 ---
 layout: post
 title: "Kaggle competition- Titanic : Machine Learning from Disaster"
@@ -455,8 +454,7 @@ def bar_chart(feature) :
 bar_chart('Sex')
 ```
 
-
-![png](output_19_0.png)
+<img src="/assets/img/output_19_0.png" width="400" />
 
 
 #### This bar chart discribes that Women more likely survived than Men
@@ -467,8 +465,7 @@ bar_chart('Pclass')
 ```
 
 
-![png](output_21_0.png)
-
+<img src="/assets/img/output_21_0.png" width="400" />
 
 
 ```python
@@ -476,8 +473,7 @@ bar_chart('SibSp')
 ```
 
 
-![png](output_22_0.png)
-
+<img src="/assets/img/output_22_0.png" width="400" />
 
 
 ```python
@@ -485,8 +481,7 @@ bar_chart('Parch')
 ```
 
 
-![png](output_23_0.png)
-
+<img src="/assets/img/output_23_0.png" width="400" />
 
 
 ```python
@@ -494,7 +489,7 @@ bar_chart('Embarked')
 ```
 
 
-![png](output_24_0.png)
+<img src="/assets/img/output_24_0." width="400" />
 
 
 ## 4. Feature Engineering 
@@ -961,7 +956,7 @@ bar_chart('Title')
 ```
 
 
-![png](output_35_0.png)
+<img src="/assets/img/output_35_0.png" width="400" />
 
 
 ### 4.3 Sex
@@ -980,7 +975,7 @@ bar_chart('Sex')
 ```
 
 
-![png](output_38_0.png)
+<img src="/assets/img/output_38_0.png" width="400" />
 
 
 ### 4.4 Age
@@ -1235,8 +1230,7 @@ plt.show()
 ```
 
 
-![png](output_42_0.png)
-
+<img src="/assets/img/output_42_0.png" width="400" />
 
 
 ```python
@@ -1256,8 +1250,7 @@ plt.xlim(0,20)
 
 
 
-![png](output_43_1.png)
-
+<img src="/assets/img/output_43_1.png" width="400" />
 
 
 ```python
@@ -1277,8 +1270,7 @@ plt.xlim(20,30)
 
 
 
-![png](output_44_1.png)
-
+<img src="/assets/img/output_44_1.png" width="400" />
 
 
 ```python
@@ -1298,8 +1290,7 @@ plt.xlim(30,40)
 
 
 
-![png](output_45_1.png)
-
+<img src="/assets/img/output_45_1.png" width="400" />
 
 
 ```python
@@ -1319,8 +1310,7 @@ plt.xlim(40,50)
 
 
 
-![png](output_46_1.png)
-
+<img src="/assets/img/output_46_1.png" width="400" />
 
 
 ```python
@@ -1502,7 +1492,8 @@ bar_chart('Age')
 ```
 
 
-![png](output_51_0.png)
+<img src="/assets/img/output_51_0.png" width="400" />
+
 
 
 ### 4.5 Embarked
@@ -1527,7 +1518,7 @@ df.plot(kind = 'bar', stacked=True, figsize=(10,5))
 
 
 
-![png](output_53_1.png)
+<img src="/assets/img/output_53_1.png" width="400" />
 
 
 #### Fill out missing embark with S embark
@@ -1693,8 +1684,7 @@ plt.show()
 ```
 
 
-![png](output_60_0.png)
-
+<img src="/assets/img/output_60_0.png" width="400" />
 
 
 ```python
@@ -1713,7 +1703,7 @@ plt.xlim(0,20)
 
 
 
-![png](output_61_1.png)
+<img src="/assets/img/output_61_1.png" width="400" />
 
 
 
@@ -1902,8 +1892,7 @@ df.plot(kind='bar',stacked=True, figsize=(10,5))
 
 
 
-![png](output_67_1.png)
-
+<img src="/assets/img/output_67_1.png" width="400" />
 
 
 ```python
@@ -1946,8 +1935,7 @@ plt.xlim(0)
 
 
 
-![png](output_72_1.png)
-
+<img src="/assets/img/output_72_1.png" width="400" />
 
 
 ```python
